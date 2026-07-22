@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vbcd_2d
+Z0 !s110 1775126474
+!i10b 1
+!s100 I8V`PW4FEfRN:PZEAY7ZF1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRz?m_O<`fc=gYaeRBF9L71
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62
+w1771865779
+8C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/bcd_2d.v
+FC:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/bcd_2d.v
+!i122 433
+L0 16 57
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1775126473.000000
+!s107 C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/bcd_2d.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/bcd_2d.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vclk_div
+R0
+!i10b 1
+!s100 P:lPXh7_8kl[ZlF;[ClmE0
+R1
+IoFhcBbLhbS8=MmDo7J]aF1
+R2
+R3
+w1771397028
+8C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/clk_div.v
+FC:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/clk_div.v
+!i122 434
+L0 15 23
+R4
+r1
+!s85 0
+31
+!s108 1775126474.000000
+!s107 C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/clk_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/clk_div.v|
+!i113 1
+R6
+R7
+vcounter_2d3462
+Z8 !s110 1775126473
+!i10b 1
+!s100 K>^B0m5ZY[Uf;UTbagTmE1
+R1
+IPMb28kb9;ZYz2I_7<S;h>0
+R2
+R3
+w1772975679
+8C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/counter_2d3462.v
+FC:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/counter_2d3462.v
+!i122 431
+L0 15 65
+R4
+r1
+!s85 0
+31
+!s108 1775126472.000000
+!s107 C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/counter_2d3462.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/counter_2d3462.v|
+!i113 1
+R6
+R7
+vtestbench
+R8
+!i10b 1
+!s100 ZGie7A:gdlEN3abB?P`9e2
+R1
+Ib:UmMXFHNXE0f<?nQeL;c2
+R2
+R3
+w1772974008
+8C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/testbench.v
+FC:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/testbench.v
+!i122 432
+L0 2 56
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Logic_2_Outputs/Verilog/L8_Counters/Counter_34-62/testbench.v|
+!i113 1
+R6
+R7
